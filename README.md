@@ -11,10 +11,10 @@ The open version of Phoenix Ovipositor has the following capabilities:
 BadUSB that allows to execute a payload from microSD card.
 Open Ovipositor can act as a combination of USB memory and keyboard. 
 
-### Sintax:
+**Sintax:**
 TBD
 
-### Example script.txt:
+**Example script.txt:**
 TBD
 
 ## Keylogger:
@@ -23,7 +23,7 @@ Open Ovipositor collects the pressed keys by the user and stores them in a micro
 ## Execution of ADB commands:
 Open Ovipositor can execute ADB commands on android devices via serial, does not need OTG.
 
-### Example sintax:
+**Example sintax:**
 TBD
 
 If you want to obtain the professional version of the Phoenix Ovipositor device, please contact us via the official website:
