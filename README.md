@@ -1,4 +1,4 @@
-# Open_Ovipositor
+# Open Ovipositor
 Open Ovipositor is the source code for the open version of the Phoenix Ovipositor device.
 
 The open version of Phoenix Ovipositor has the following capabilities:
